@@ -1,4 +1,4 @@
-# Entrega 1 – Exploración de Datos
+# Inteligencia Artificial 2025-2
 
 ##  Integrantes del grupo
 
