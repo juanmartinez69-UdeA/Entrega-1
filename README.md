@@ -1,4 +1,4 @@
-# Inteligencia Artificial 2025-2
+# Inteligencia Artificial 2025_2
 
 ##  Integrantes del grupo
 
